@@ -1,0 +1,157 @@
+[
+    {
+ 
+        "name": "Primary Care",
+        "description": "Primary care practice serves as the patient's entry point into the health care system and as the continuing focal point for all needed health care services",
+        "slots": [
+            "08.00 AM - 08.30 AM",
+            "08.30 AM - 09.00 AM",
+            "09.00 AM - 9.30 AM",
+            "09.30 AM - 10.00 AM",
+            "10.00 AM - 10.30 AM",
+            "10.30 AM - 11.00 AM",
+            "11.00 AM - 11.30 AM",
+            "11.30 AM - 12.00 AM",
+            "1.00 PM - 1.30 PM",
+            "1.30 PM - 2.00 PM",
+            "2.00 PM - 2.30 PM",
+            "2.30 PM - 3.00 PM",
+            "3.00 PM - 3.30 PM",
+            "3.30 PM - 4.00 PM",
+            "4.00 PM - 4.30 PM",
+            "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+        "name": "Dental Care",
+        "description": "Professional cleaning includes scaling and polishing. This procedure uses instruments to loosen and remove deposits from the teeth",
+        "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+        "name": "Eye Care",
+        "description": "Eye care services are virtually non-existing at rural community level and upazila level.Comprehensive eye care aims to ensure that people have access to eye care services that meet their needs at every stage of life.",
+        "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+        "name": "Psychotherapy",
+        "description": "Psychotherapy (sometimes called talk therapy) refers to a variety of treatments that aim to help a person identify and change troubling emotions, thoughts.",
+        "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+        "name": "Orthopedic",
+        "description": "Orthopedic surgeons use both surgical and nonsurgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections.", 
+        "slots": [
+          "08.00 AM - 08.30 AM",
+          "08.30 AM - 09.00 AM",
+          "09.00 AM - 9.30 AM",
+          "09.30 AM - 10.00 AM",
+          "10.00 AM - 10.30 AM",
+          "10.30 AM - 11.00 AM",
+          "11.00 AM - 11.30 AM",
+          "11.30 AM - 12.00 AM",
+          "1.00 PM - 1.30 PM",
+          "1.30 PM - 2.00 PM",
+          "2.00 PM - 2.30 PM",
+          "2.30 PM - 3.00 PM",
+          "3.00 PM - 3.30 PM",
+          "3.30 PM - 4.00 PM",
+          "4.00 PM - 4.30 PM",
+          "4.30 PM - 5.00 PM"
+        ]
+    },
+    {
+        "name": "Cardiology",
+        "description": "Physicians who specialize in cardiology are called cardiologists and they are responsible for the medical management of various heart diseases.",
+        "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+        "name": "Gynecology",
+        "description": "Gynecology is the medical specialty of female health, particularly the reproductive system.A gynecologist is a surgeon who specializes in the female reproductive system, which includes the cervix, fallopian tubes, ovaries, uterus.",
+        "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    }
+]
